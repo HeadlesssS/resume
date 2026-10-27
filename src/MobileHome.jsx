@@ -71,7 +71,7 @@ export default function MobileHome({ onNinety }) {
           <h2>PROJECTS</h2>
           <div className="m-intro">
             <p className="tag">[ INTRODUCTION &amp; PHILOSOPHY ]</p>
-            <p>My focus is web development — mostly Django, React, DRF, Three.js — where data, logic, and visual design all have to come together.</p>
+            <p>My focus is web development mostly Django, React, DRF, Three.js — where data, logic, and visual design all have to come together.</p>
           </div>
         </section>
 
